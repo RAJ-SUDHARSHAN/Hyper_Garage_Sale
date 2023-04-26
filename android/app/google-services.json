@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "27211140087",
+    "project_id": "hyper-garage-sale-a3238",
+    "storage_bucket": "hyper-garage-sale-a3238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27211140087:android:21c885e0f825d69949bcf2",
+        "android_client_info": {
+          "package_name": "com.example.hyper_garage_sale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27211140087-9fpsjmoagvc3o2gbh25112v302vnhgts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnmWU41rDw94Uw3pAiByC3KLpKCUy9Swg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27211140087-9fpsjmoagvc3o2gbh25112v302vnhgts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27211140087-4ojqsrk3nivfu4d8oevjqnuldl586gat.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hyperGarageSale"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
